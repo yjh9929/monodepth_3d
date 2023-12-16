@@ -1,7 +1,0 @@
-__pycache__
-*.pyc
-*_disp.jpg
-*_disp.npy
-*.npz
-monodepth2/kitti_data/
-monodepth2/models/

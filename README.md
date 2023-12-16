@@ -32,6 +32,19 @@ PyTorch 0.4.1, CUDA 9.1, Python 3.6.6 and Ubuntu 20.04.
     conda install opencv=3.3.1   # just needed for evaluation
 
 
+## 💾 Dataset
+I used the raw KITTI dataset while training monodepth2.
+2011/9/26, 2011/9/28, 2011/9/29, 2011/9/30, 2011/10/03
+
+Folder structure of KITTI dataset
+`{Date}/{Date}_drive_{num}_sync/image_{00~03}/data/{num}.jpg`
+- image_00 : Left_B/W
+- image_01 : Right_B/W
+- image_02 : Left_RGB
+- image_03 : Right_RGB
+
+(If all the photos were used, there would be too many duplicated parts, so only the `image_02` folder was used for training.)
+
 ## Result
 
 ### test image
