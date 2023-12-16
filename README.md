@@ -28,7 +28,7 @@ I ran my experiments with :
 
 PyTorch 1.10.1, CUDA 12.3, Python 3.6.6 and Ubuntu 20.04.
 
-'conda create -n monodepth2 python=3.6.6 anaconda'
+> conda create -n monodepth2 python=3.6.6 anaconda
 
     pip3 install torch torchvision torchaudio
     pip install tensorboardX

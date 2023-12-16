@@ -3,5 +3,5 @@ __pycache__
 *_disp.jpg
 *_disp.npy
 *.npz
-kitti_data/
-models/
+monodepth2/kitti_data/
+monodepth2/models/
