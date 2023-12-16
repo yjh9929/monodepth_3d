@@ -2,7 +2,7 @@
 monodepth2 + 3d reconstruction
 
 ## Introduction
-This is the final work I submitted for the 'robot vision_2023-2' class.
+This is the final work I submitted for the `robot vision_2023-2` class.
 
 ## Framework
 Camera(take aphoto) -- RGB Image --> Depth Estimation -- Depth Map --> 3D Reconstruction -- Point Cloud / 3D Model --> Storage -- Visualizaation --> Screen
