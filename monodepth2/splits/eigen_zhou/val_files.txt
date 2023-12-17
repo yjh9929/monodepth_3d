@@ -1168,7 +1168,6 @@ kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data 258 1
 kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 3323 1
 kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data 127 1
 kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data 407 1
-kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data 0 1
 kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 3361 1
 kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data 37 1
 kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data 2560 1
@@ -2500,7 +2499,6 @@ kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data 1277 1
 kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data 503 1
 kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data 3266 1
 kitti_data/2011_09_30/2011_09_30_drive_0027_sync/image_02/data 361 1
-kitti_data/2011_09_26/2011_09_26_drive_0093_sync/image_02/data 0 1
 kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data 679 1
 kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data 367 1
 kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data 1226 1
@@ -3821,7 +3819,6 @@ kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 3443 1
 kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data 353 1
 kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data 1090 1
 kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data 943 1
-kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data 0 1
 kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 413 1
 kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 71 1
 kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data 261 1
@@ -4139,7 +4136,6 @@ kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data 698 1
 kitti_data/2011_10_03/2011_10_03_drive_0047_sync/image_02/data 427 1
 kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data 977 1
 kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data 337 1
-kitti_data/2011_09_26/2011_09_26_drive_0048_sync/image_02/data 0 1
 kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data 67 1
 kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data 3397 1
 kitti_data/2011_09_26/2011_09_26_drive_0084_sync/image_02/data 110 1
@@ -5703,7 +5699,6 @@ kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data 410 1
 kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data 1250 1
 kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data 536 1
 kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data 1817 1
-kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data 0 1
 kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data 312 1
 kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data 206 1
 kitti_data/2011_09_26/2011_09_26_drive_0046_sync/image_02/data 60 1
@@ -6509,7 +6504,6 @@ kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data 115 1
 kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 1838 1
 kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data 56 1
 kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data 91 1
-kitti_data/2011_09_26/2011_09_26_drive_0060_sync/image_02/data 0 1
 kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 1064 1
 kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data 107 1
 kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data 261 1
@@ -6945,7 +6939,6 @@ kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data 1520 1
 kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data 51 1
 kitti_data/2011_09_26/2011_09_26_drive_0019_sync/image_02/data 417 1
 kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 3148 1
-kitti_data/2011_09_26/2011_09_26_drive_0017_sync/image_02/data 0 1
 kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data 310 1
 kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data 180 1
 kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data 429 1
@@ -7525,7 +7518,6 @@ kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 2779 1
 kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data 2775 1
 kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data 694 1
 kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data 31 1
-kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data 0 1
 kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data 177 1
 kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data 218 1
 kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data 560 1
@@ -7633,7 +7625,6 @@ kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data 1826 1
 kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data 44 1
 kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data 146 1
 kitti_data/2011_09_26/2011_09_26_drive_0002_sync/image_02/data 63 1
-kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data 0 1
 kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data 2986 1
 kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data 211 1
 kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data 2803 1
@@ -8279,7 +8270,6 @@ kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data 337 1
 kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data 273 1
 kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data 1406 1
 kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data 4307 1
-kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data 0 1
 kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data 92 1
 kitti_data/2011_09_30/2011_09_30_drive_0020_sync/image_02/data 460 1
 kitti_data/2011_09_26/2011_09_26_drive_0014_sync/image_02/data 96 1

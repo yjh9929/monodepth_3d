@@ -369,7 +369,6 @@ monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0002_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0002_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0002_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0002_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0002_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0002_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0002_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0002_sync/image_02/data/0000000358.jpg
@@ -476,7 +475,6 @@ monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0001_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0001_sync/image_02/data/0000000017.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0001_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0001_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0001_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0001_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0001_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_28/2011_09_28_drive_0001_sync/image_02/data/0000000019.jpg
@@ -1529,7 +1527,6 @@ monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0071_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0071_sync/image_02/data/0000000812.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0071_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0071_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0071_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0071_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0071_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0071_sync/image_02/data/0000000649.jpg
@@ -1874,7 +1871,6 @@ monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0004_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0004_sync/image_02/data/0000000007.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0004_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0004_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0004_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0004_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0004_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0004_sync/image_02/data/0000000019.jpg
@@ -2032,7 +2028,6 @@ monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0026_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0026_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0026_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0026_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0026_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0026_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0026_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_29/2011_09_29_drive_0026_sync/image_02/data/0000000019.jpg
@@ -2111,7 +2106,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0002_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0002_sync/image_02/data/0000000017.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0002_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0002_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0002_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0002_sync/image_02/data/0000000019.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/0000000037.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/0000000038.jpg
@@ -2582,7 +2576,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0096_sync/image_02/data/0000000098.jpg
@@ -3002,7 +2995,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0070_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0070_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0070_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0070_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0070_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0070_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0070_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0070_sync/image_02/data/0000000098.jpg
@@ -3393,7 +3385,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0032_sync/image_02/data/0000000358.jpg
@@ -3830,7 +3821,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0051_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0051_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0051_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0051_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0051_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0051_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0051_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0051_sync/image_02/data/0000000098.jpg
@@ -4762,7 +4752,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0101_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0101_sync/image_02/data/0000000812.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0101_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0101_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0101_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0101_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0101_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0101_sync/image_02/data/0000000649.jpg
@@ -5001,7 +4990,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0011_sync/image_02/data/0000000019.jpg
@@ -5341,7 +5329,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0091_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0091_sync/image_02/data/0000000007.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0091_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0091_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0091_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0091_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0091_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0091_sync/image_02/data/0000000019.jpg
@@ -5485,7 +5472,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0013_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0013_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0013_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0013_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0013_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0013_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0013_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0013_sync/image_02/data/0000000019.jpg
@@ -5610,7 +5596,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0046_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0046_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0046_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0046_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0046_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0046_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0046_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0046_sync/image_02/data/0000000019.jpg
@@ -5837,7 +5822,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0106_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0106_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0106_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0106_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0106_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0106_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0106_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0106_sync/image_02/data/0000000019.jpg
@@ -6131,7 +6115,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0056_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0056_sync/image_02/data/0000000273.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0056_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0056_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0056_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0056_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0056_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0056_sync/image_02/data/0000000019.jpg
@@ -6211,7 +6194,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0060_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0060_sync/image_02/data/0000000017.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0060_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0060_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0060_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0060_sync/image_02/data/0000000019.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/0000000037.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/0000000038.jpg
@@ -6637,7 +6619,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0028_sync/image_02/data/0000000098.jpg
@@ -6827,7 +6808,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0027_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0027_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0027_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0027_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0027_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0027_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0027_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0027_sync/image_02/data/0000000019.jpg
@@ -6981,7 +6961,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0005_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0005_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0005_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0005_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0005_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0005_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0005_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0005_sync/image_02/data/0000000019.jpg
@@ -7095,7 +7074,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0017_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0017_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0017_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0017_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0017_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0017_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0017_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0017_sync/image_02/data/0000000019.jpg
@@ -7540,7 +7518,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0009_sync/image_02/data/0000000098.jpg
@@ -8021,7 +7998,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0019_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0019_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0019_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0019_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0019_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0019_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0019_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0019_sync/image_02/data/0000000098.jpg
@@ -8112,7 +8088,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0113_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0113_sync/image_02/data/0000000017.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0113_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0113_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0113_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0113_sync/image_02/data/0000000019.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/0000000037.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/0000000038.jpg
@@ -8809,7 +8784,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0061_sync/image_02/data/0000000649.jpg
@@ -9244,7 +9218,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0093_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0093_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0093_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0093_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0093_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0093_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0093_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0093_sync/image_02/data/0000000098.jpg
@@ -9335,7 +9308,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000085.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000074.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000025.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000107.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000010.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000065.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000049.jpg
@@ -9354,7 +9326,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000017.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0001_sync/image_02/data/0000000019.jpg
@@ -9668,7 +9639,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0014_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0014_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0014_sync/image_02/data/0000000007.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0014_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0014_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0014_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0014_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0014_sync/image_02/data/0000000019.jpg
@@ -9756,7 +9726,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0020_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0020_sync/image_02/data/0000000017.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0020_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0020_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0020_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0020_sync/image_02/data/0000000019.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data/0000000037.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data/0000000038.jpg
@@ -9855,7 +9824,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data/0000000017.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0079_sync/image_02/data/0000000019.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data/0000000037.jpg
@@ -10578,7 +10546,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0087_sync/image_02/data/0000000649.jpg
@@ -11285,7 +11252,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0086_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0086_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0086_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0086_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0086_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0086_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0086_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0086_sync/image_02/data/0000000649.jpg
@@ -11601,7 +11567,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0104_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0104_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0104_sync/image_02/data/0000000007.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0104_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0104_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0104_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0104_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0104_sync/image_02/data/0000000019.jpg
@@ -12257,7 +12222,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0117_sync/image_02/data/0000000649.jpg
@@ -12621,7 +12585,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0057_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0057_sync/image_02/data/0000000007.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0057_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0057_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0057_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0057_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0057_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0057_sync/image_02/data/0000000358.jpg
@@ -13016,7 +12979,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0039_sync/image_02/data/0000000358.jpg
@@ -13287,7 +13249,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0018_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0018_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0018_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0018_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0018_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0018_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0018_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0018_sync/image_02/data/0000000019.jpg
@@ -13669,7 +13630,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0084_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0084_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0084_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0084_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0084_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0084_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0084_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0084_sync/image_02/data/0000000358.jpg
@@ -13750,7 +13710,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0052_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0052_sync/image_02/data/0000000017.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0052_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0052_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0052_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0052_sync/image_02/data/0000000019.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/0000000037.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/0000000038.jpg
@@ -14316,7 +14275,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0064_sync/image_02/data/0000000098.jpg
@@ -14690,7 +14648,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0059_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0059_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0059_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0059_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0059_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0059_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0059_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0059_sync/image_02/data/0000000358.jpg
@@ -15486,7 +15443,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0022_sync/image_02/data/0000000649.jpg
@@ -15759,7 +15715,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0095_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0095_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0095_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0095_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0095_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0095_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0095_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0095_sync/image_02/data/0000000019.jpg
@@ -15890,7 +15845,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0035_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0035_sync/image_02/data/0000000115.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0035_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0035_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0035_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0035_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0035_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0035_sync/image_02/data/0000000019.jpg
@@ -16187,7 +16141,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data/0000000007.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0015_sync/image_02/data/0000000019.jpg
@@ -16211,7 +16164,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0048_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0048_sync/image_02/data/0000000017.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0048_sync/image_02/data/0000000016.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0048_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0048_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0048_sync/image_02/data/0000000019.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/0000000037.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/0000000038.jpg
@@ -16637,7 +16589,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0029_sync/image_02/data/0000000098.jpg
@@ -17111,7 +17062,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0023_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0023_sync/image_02/data/0000000367.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0023_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0023_sync/image_02/data/0000000295.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0023_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0023_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0023_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0023_sync/image_02/data/0000000098.jpg
@@ -17911,7 +17861,6 @@ monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data/0000000322.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_26/2011_09_26_drive_0036_sync/image_02/data/0000000649.jpg
@@ -22524,7 +22473,6 @@ monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data/000000
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data/0000004476.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data/0000003661.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data/0000002407.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0034_sync/image_02/data/0000000399.jpg
@@ -23741,7 +23689,6 @@ monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data/000000
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data/0000000812.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0042_sync/image_02/data/0000000649.jpg
@@ -24581,7 +24528,6 @@ monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0047_sync/image_02/data/000000
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0047_sync/image_02/data/0000000812.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0047_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0047_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0047_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0047_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0047_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0047_sync/image_02/data/0000000649.jpg
@@ -29078,7 +29024,6 @@ monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data/000000
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data/0000004476.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data/0000003661.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data/0000002407.jpg
 monodepth2/kitti_data/2011_10_03/2011_10_03_drive_0027_sync/image_02/data/0000000399.jpg
@@ -29409,7 +29354,6 @@ monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0016_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0016_sync/image_02/data/0000000273.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0016_sync/image_02/data/0000000112.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0016_sync/image_02/data/0000000007.jpg
-monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0016_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0016_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0016_sync/image_02/data/0000000098.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0016_sync/image_02/data/0000000019.jpg
@@ -30505,7 +30449,6 @@ monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0020_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0020_sync/image_02/data/0000000812.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0020_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0020_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0020_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0020_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0020_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0020_sync/image_02/data/0000000649.jpg
@@ -32090,7 +32033,6 @@ monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data/0000000812.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0033_sync/image_02/data/0000001213.jpg
@@ -33321,7 +33263,6 @@ monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data/0000000812.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0034_sync/image_02/data/0000001213.jpg
@@ -34429,7 +34370,6 @@ monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0027_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0027_sync/image_02/data/0000000812.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0027_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0027_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0027_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0027_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0027_sync/image_02/data/0000000100.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0027_sync/image_02/data/0000000649.jpg
@@ -39551,7 +39491,6 @@ monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data/0000004476.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data/0000003661.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data/0000002407.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0028_sync/image_02/data/0000000399.jpg
@@ -42346,7 +42285,6 @@ monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/000000
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000002608.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000295.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000630.jpg
-monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000000.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000002407.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000399.jpg
 monodepth2/kitti_data/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000001903.jpg
