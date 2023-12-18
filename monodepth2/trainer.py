@@ -193,7 +193,7 @@ class Trainer:
     def run_epoch(self):
         """Run a single epoch of training and validation
         """
-        self.model_lr_scheduler.step()
+        #self.model_lr_scheduler.step()
 
         print("Training")
         self.set_train()
@@ -207,6 +207,7 @@ class Trainer:
             self.model_optimizer.zero_grad()
             losses["loss"].backward()
             self.model_optimizer.step()
+            self.model_lr_scheduler.step()
 
             duration = time.time() - before_op_time
 

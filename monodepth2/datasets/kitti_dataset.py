@@ -63,7 +63,6 @@ class KITTIRAWDataset(KITTIDataset):
 
     def get_image_path(self, folder, frame_index, side):
         f_str = "{:010d}{}".format(frame_index, self.img_ext)
-        print("!!!!!!", folder, frame_index)
         image_path = os.path.join(
             self.data_path, folder, "image_0{}/data".format(self.side_map[side]), f_str)
         return image_path
@@ -110,6 +109,7 @@ class KITTIDepthDataset(KITTIDataset):
 
     def get_image_path(self, folder, frame_index, side):
         f_str = "{:010d}{}".format(frame_index, self.img_ext)
+        print("Side value:", side)
         image_path = os.path.join(
             self.data_path,
             folder,
