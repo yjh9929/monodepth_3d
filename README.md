@@ -14,6 +14,9 @@ Camera(take aphoto) -- RGB Image --> Depth Estimation -- Depth Map --> 3D Recons
 Reference : Monodepth2
 https://github.com/nianticlabs/monodepth2
 
+#### Example
+    python test_simple.py --image_path assets/test_image.jpg --model_name robot_model
+
 ### 3D Reconstruction
     Input : Depth Map
     Output : Point Cloud / 3D Model
@@ -21,6 +24,9 @@ https://github.com/nianticlabs/monodepth2
 Reference : opencv, numpy library
 https://github.com/iwatake2222/opencv_sample/tree/master/01_article/01_3d_reconstruction
 https://github.com/SerkanDemirci/reconstruction-from-depth
+
+#### Example
+    python depthTo3d.py test_result/test_image.jpg test_result/test_image_disp.jpeg test_image.ply 1148.93617021 1150.38461538 750 500
 
 ## ⚙️ Setup
 I ran my experiments with =
